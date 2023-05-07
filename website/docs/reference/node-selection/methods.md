@@ -1,5 +1,6 @@
 ---
-title: "Methods"
+title: "Node Selection Methods"
+sidebar_lable: "Methods"
 ---
 
 Selector methods return all resources that share a common property, using the
