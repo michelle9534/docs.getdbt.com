@@ -1,5 +1,6 @@
 ---
-title: "Graph operators"
+title: "Using Graph operators to Select Models"
+sidebar_label "Graph operators"
 ---
 
 ### The "plus" operator
