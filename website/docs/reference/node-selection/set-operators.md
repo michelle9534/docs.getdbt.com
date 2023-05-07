@@ -1,5 +1,6 @@
 ---
-title: "Set operators"
+title: "Set operators to search models"
+sidebar_label ""Set operators"
 ---
 
 ### Unions
